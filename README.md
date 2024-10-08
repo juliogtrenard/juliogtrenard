@@ -8,3 +8,9 @@ Soy Julio González! Soy un **desarrollador de aplicaciones móviles**:iphone:, 
 
 <!-- IMG -->
 <img src="https://github.com/juliogtrenard/juliogtrenard/blob/main/dev.png" alt="dev" align="right" width="500" height="250" />
+
+### 💼  Cosas en las que estoy trabajando actualmente: 
+* Aprendiendo a desarrollar aplicaciones móviles :computer:.
+* Aprendiendo a desarrollar videojuegos:video_game: con Godot.
+* Quiero aprender Flutter en un futuro.🔜
+* :desktop_computer:
