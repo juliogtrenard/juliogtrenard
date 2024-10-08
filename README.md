@@ -12,7 +12,7 @@ Soy Julio González! Soy un **desarrollador de aplicaciones móviles**:iphone:, 
 ### 💼  Cosas en las que estoy trabajando actualmente: 
 * Aprendiendo a desarrollar aplicaciones móviles :computer:.
 * Aprendiendo a desarrollar videojuegos :video_game: con Godot.
-* Quiero aprender Flutter en un futuro.🔜
+* Quiero aprender Flutter en un futuro🔜.
 * :desktop_computer:
 
 ### 🌱 Desafíos que me propongo actualmente:
@@ -20,3 +20,7 @@ Soy Julio González! Soy un **desarrollador de aplicaciones móviles**:iphone:, 
 * Aplicar buenas técnicas de UI/UX a mis aplicaciones :computer:. 
 * Ir al gym :weight_lifting_man: 4 días a la semana.
 * Disfrutar más de películas y libros.
+
+### Lenguajes y herramientas:
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
