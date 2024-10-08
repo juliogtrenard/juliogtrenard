@@ -23,4 +23,4 @@ Soy Julio González! Soy un **desarrollador de aplicaciones móviles**:iphone:, 
 
 ### Lenguajes y herramientas:
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50"/></code>
