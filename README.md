@@ -35,3 +35,5 @@ Soy Julio González! Soy un **desarrollador de aplicaciones móviles**:iphone:, 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" height="50"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" height="50"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="50"/></code>
+
+<h3 align="center">¡Un saludo! :wave:</h3>
